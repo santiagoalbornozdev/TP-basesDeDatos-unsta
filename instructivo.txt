@@ -1,0 +1,18 @@
+Instructivo para poder crear un repositorio y como hacer un push desde GITGUI
+
+1-crear una cuenta en GitHub
+2-click en el botón "new" para crear un nuevo repositorio
+3-llenar los campos
+4-se puede agregar un archivo "README" si se quiere
+5-click en "create repository"
+6-Instalar git
+7-elegir "clone existing repository"
+8-llenar los campos con la url de nuestro repositorio creado anteriormente
+9-click en "clone"
+10-agregar el archivo a nuestra carpeta donde se encuentra el repositorio
+11-dentro de GITGUI, click en "stage changed" para confirmar
+12-donde dice "commit message" escribe una breve descripción de lo que hiciste
+13- click en "commit" para confirmar
+14-click en "push"
+15- te pedirán usuario y contraseña de github
+16 click en push
